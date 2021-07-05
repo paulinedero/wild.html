@@ -1,2 +1,2 @@
 # wild.html
-Quête Git 3
+Exercice using HTML and push it on GitHub
